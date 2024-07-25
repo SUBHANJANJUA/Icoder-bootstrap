@@ -1,0 +1,5 @@
+.blur{
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 5px solid red;
+    border-radius: 55px;
+}
